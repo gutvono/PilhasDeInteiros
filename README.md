@@ -6,4 +6,4 @@ A) uma função para testar se as 2 pilhas são iguais, caso não forem, informe
 B) uma função que forneça o maior, o menor e a média aritmética dos elementos da pilha;<br>
 C) uma função para transferir os elementos da pilha informada pelo usuario para uma terceira pilha (ex: aux), e imprima a pilha nova;<br>
 D) uma função para retornar a quantidade de elementos impares, imprimindo quais são;<br>
-E) uma função para retornar a quantidade de elementos impares, imprimindo quais são;<br>
+E) uma função para retornar a quantidade de elementos pares, imprimindo quais são;<br>
